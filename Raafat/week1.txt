@@ -1,1 +1,13 @@
 
+Wat heb ik deze week gedaan?
+
+We hebben samen besproken, hoe we in het project gaan beginnen. alle eerst we hebben een goede idee gevonden "WhatChat".
+
+Wat ga ik doen?
+
+ik ga het login Form van het app maken.
+
+Waawwaar ben ik tegen aangelopen?
+
+Het eerst het werken in github . Het wordt zeker ook een uitdaging om android studio's te gebruiken, 
+en ook het kotlin Taal omat nieuw is.
