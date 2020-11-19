@@ -1,3 +1,7 @@
 - Week 1
+    Qaher
+    Raafat
+    Reshwan
+    Xande: Splash screen, basic layout die je ziet wanneer de app opent
 https://trello.com/b/yL3PGPnV/project
 
