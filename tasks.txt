@@ -1,7 +1,8 @@
 - Week 1
-    Qaher
-    Raafat
-    Reshwan
+    Qaher: / Niet aanwezig voor 2 lessen.
+    Raafat: Database.
+    Reshwan: Pagina waar al je bestaande contacten kunt weergeven.
     Xande: Splash screen, basic layout die je ziet wanneer de app opent
-https://trello.com/b/yL3PGPnV/project
+    
+    trello:https://trello.com/b/yL3PGPnV/project
 
