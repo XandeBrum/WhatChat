@@ -1,1 +1,12 @@
+tot nu toe heb ik een begin gemaakt aan de splash screen en iedereen
+
+deze keer wil ik de splash screen afmaken en de default pagina die je ziet als je 
+de app opent
+
+een probleem voor mij was het echt beginnen, ik heb de neiging om eerst alles te 
+weten zodat ik dan met vertrouwen kan beginnen maar nu leer ik iets wat ik dan 
+gelijk ga gebruiken
+
+
+
 
