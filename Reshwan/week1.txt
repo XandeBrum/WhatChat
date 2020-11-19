@@ -1,1 +1,13 @@
+Wat heb ik deze week gedaan?
 
+We hebben samen besproken, hoe we het project gaan beginnen. Ook hebben we de indeling gemaakt deze week
+zodat we een overzicht hebben met wat iedereen bezig is.
+
+Wat ga ik doen?
+
+We gaan nog beter door nemen wie wat doet zodat er geen verwarring komt in ons project.
+
+Waar ben ik tegen aangelopen?
+
+Het is vooral inkomen ,omdat ik bijna nooit github gebruik. Het wordt zeker ook een uitdaging om android studio's te gebruiken ,omdat 
+het vrij nieuw voor mijzelf is en natuurlijk de taal kotlin zelf leren wordt ook wel wat.
